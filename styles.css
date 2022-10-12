@@ -1,0 +1,60 @@
+
+
+input{
+background-color:#F2F4F4;
+border-radius:5px;
+padding:14px;
+border-top-style:hidden;
+border-left-style:hidden;
+border-right-style:hidden;
+boder-bottom-style:groove;
+
+
+}
+
+body{
+background-color:pink;
+}
+
+
+ label {
+ display: inline-block;
+  width: 100px;
+text-align:center;
+}
+
+form{
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+background-color:#ffffff;
+  transform: translate(-50%, -50%);
+
+border:2px solid red;
+justify-content:center;
+
+}
+
+div{
+margin-left:auto;
+margin-right:auto;
+width:30em;
+  text-align:center;
+margin-top:20px;
+vertical-align:middle;
+}
+
+
+h1{
+background-color:#000000;
+color:#ffffff;
+text-align:center;
+bottom:20px;
+
+}
+
+
+#subject option{
+ width:150px;   
+}
